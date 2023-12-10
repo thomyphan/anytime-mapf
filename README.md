@@ -1,2 +1,2 @@
-# Anytime Anytime Multi-Agent Path Finding
+# Anytime Multi-Agent Path Finding
 
