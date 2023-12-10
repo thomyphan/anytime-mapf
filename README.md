@@ -1,2 +1,2 @@
-# anytime-mapf
-Anytime Anytime Multi-Agent Path Finding
+# Anytime Anytime Multi-Agent Path Finding
+
